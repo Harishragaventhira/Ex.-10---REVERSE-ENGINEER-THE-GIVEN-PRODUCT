@@ -36,8 +36,8 @@
 ### Output:
 ![image](https://github.com/R-Guruprasad/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119390308/c8601c96-aa73-4b99-88b4-9ce05e917adf)
 
-### Name: R Guruprasad
-### Register Number: 212222240033
+### Name: HARISH S
+### Register Number: 212223230072
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
